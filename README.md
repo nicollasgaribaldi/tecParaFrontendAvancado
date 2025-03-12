@@ -16,7 +16,7 @@ Sistemas para Internet - P4 B
 
 1. Clone o repositório:
    ```sh
-   git clone [https://github.com/nicollasgaribaldi/tecParaFrontendAvancado](https://github.com/nicollasgaribaldi/tecParaFrontendAvancado)
+   git clone https://github.com/nicollasgaribaldi/tecParaFrontendAvancado
    ```
 2. Acesse a pasta do projeto:
    ```sh
