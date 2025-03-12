@@ -8,27 +8,21 @@ import PrecisoEstudar from './components/PrecisoEstudar'
 const App = () => {
   return (
     <div>
-
-      <h1>Exercício 01 React</h1>
-
+      <h1>Exercícios Tecnologias para Front-end Avançado</h1>
       <hr />
 
       <h2>Exercício 01</h2>
 
-      <br /> <br />
+      <Adicao num1 = {10} num2={5} />
+      <Subtracao num1 ={15} num2={0} />
+      <Multiplicacao num1={5} num2={3} />
+      <Divisao num1 ={30} num2={2} />
 
-      <Adicao num1 = {30} num2={60} />
-      <Subtracao num1 ={38} num2={9} />
-      <Multiplicacao num1={14} num2={7} />
-      <Divisao num1 ={70} num2={30} />
-
-      <br /> <br />
-
+      <br />
       <hr />
 
       <h2>Exercício 02</h2>
 
-      <br /><br />
       <PrecisoEstudar nomeDaTecnologia="Python" />
     </div>
   )
