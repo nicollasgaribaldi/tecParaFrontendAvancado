@@ -1,12 +1,18 @@
-# React + Vite
+# Exercícios 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Crie um componente chamado “HookMegaSena”
+- Nele, inicialize um useState que armazena um número sorteado, que tem o estado inicial vazio.
+- Crie outro useState com o estado inicial de um array vazio para armazenar os números sorteados
+- Seu componente terá uma função chamada: sortearNumero
+- Essa função deve abastecer o “useState” de número sorteado com um número aleatório entre 1 e 60.
+- Sintaxe: Math.floor(Math.random() * 60) + 1
+- Também deve ir armazenando os valores já sorteados em um array.
+- Sintaxe: [...arrayNumerosSorteados , sorteado]
+- Não permitir que um novo número seja sorteado se o array já tiver o tamanho de 6 elementos.
+- Se isso acontecer, exibir um alert: “Já temos 6 números sortedos!”
+- Exibir na tela as informações como demonstra o print ao lado.
+- Criar o button Sortear Número para chamar a sua função.
 
-Currently, two official plugins are available:
+# Resultado
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![alt text](image.png)
