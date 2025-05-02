@@ -2,17 +2,20 @@
     "alunos": [
         {
             "id": "1",
-            "nome": "Nícollas",
-            "email": "nicollas@eu.com"
+            "nome": "Peter Parker",
+            "matricula": "123456789",
+            "email": "peter@parker.com"
         },
         {
             "id": "2",
             "nome": "Mary Jane",
+            "matricula": "123456790",
             "email": "mary@jane.com"
         },
         {
             "id": "3",
             "nome": "Pessoinha",
+            "matricula": "123456791",
             "email": "pess@inha.com"
         }
     ]

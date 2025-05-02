@@ -1,12 +1,14 @@
-# React + Vite
+# Exercício 1
+- Através do seu projeto React crie uma RESTful api fake que retorne uma lista de Alunos, onde cada aluno terá nome, email e curso.
+- Faça um get nessa lista de alunos, onde o mesmo retornará a lista desses alunos.
+- Mostre o resultado em um cliente HTTP.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Exercício 2
+- Crie uma página que retorne a lista de alunos que a sua API fake está retornando.
+- Retorne esses dados organizados em uma tabela (table).
 
-Currently, two official plugins are available:
+# Exercício 3
+- Crie um formulário que adicione novos alunos nessa API fake e a lista (a tabela) atualize automaticamente.
+- A mesma página carrega a lista de alunos e tem o formulário para salvar novos alunos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Resultado
