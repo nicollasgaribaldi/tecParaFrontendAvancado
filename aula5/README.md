@@ -12,3 +12,5 @@
 - A mesma página carrega a lista de alunos e tem o formulário para salvar novos alunos.
 
 # Resultado
+
+![image](https://github.com/user-attachments/assets/99266b91-1c03-4ca8-b67f-f037cf358e34)
