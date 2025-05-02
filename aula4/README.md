@@ -19,4 +19,4 @@ back-end: ${jsonToSend}
 
 ## Resultado:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/6e3d20c4-687a-4cf1-a94f-12c030754968)
